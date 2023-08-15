@@ -6,6 +6,7 @@ public class fdyt {
 		// TODO Auto-generated method stub
 		System.out.println("farooq");
 		System.out.println("jakeer");
+		System.out.println("aasriz");
 
 	}
 
